@@ -29,6 +29,7 @@
 The application currently has some limitations, including:
 
 **Data:**
+
 •	Storage: The data used is still stored locally, not uploaded to the server.
 •	Functionality: Data can currently only be viewed and deleted, and there is no editing function.
 Information: The information provided for the markers is still limited.
