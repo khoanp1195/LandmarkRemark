@@ -1,7 +1,11 @@
 **Requirements**: Create an app that allows users to store location-based notes on a map.
+
 **Technology**: iOS – Swift
+
 **Data storage:** Realm
+
 **Solution:**
+
 •	Initially, I chose the readily available Swift library MKMapView to display the map image.
 
 •	Next, I implemented a long press gesture to display a popup for the user to enter (Address, Descriptions). 
@@ -20,9 +24,11 @@
 
 •	When a user clicks on a search result, the application will focus on the corresponding location on the map.
 
-Limitations:
+**Limitations:**
+
 The application currently has some limitations, including:
-Data:
+
+**Data:**
 •	Storage: The data used is still stored locally, not uploaded to the server.
 •	Functionality: Data can currently only be viewed and deleted, and there is no editing function.
 Information: The information provided for the markers is still limited.
