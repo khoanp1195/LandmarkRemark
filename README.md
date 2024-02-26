@@ -1,7 +1,7 @@
-Requirements: Create an app that allows users to store location-based notes on a map.
-Technology: iOS – Swift
-Data storage: Realm
-Solution:
+**Requirements**: Create an app that allows users to store location-based notes on a map.
+**Technology**: iOS – Swift
+**Data storage:** Realm
+**Solution:**
 •	Initially, I chose the readily available Swift library MKMapView to display the map image.
 
 •	Next, I implemented a long press gesture to display a popup for the user to enter (Address, Descriptions). 
